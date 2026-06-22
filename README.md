@@ -1,4 +1,4 @@
-# 学术配图生成工作流 (Academic Figure Generation Workflow)
+﻿# 学术配图生成工作流 (Academic Figure Generation Workflow)
 
 > Graphviz DOT 引擎驱动的学术论文配图生成工具
 
@@ -52,6 +52,10 @@ academic-figure-gen/
 | Graphviz | 2.44+ | DOT 源码渲染为 PNG/SVG/PDF |
 | Python 3 | 3.7+ | 运行 DOCX 插入脚本 |
 | python-docx | 0.8.11+ | Word 文档读写操作 |
+
+## 作者
+
+刘楠
 
 ## 许可 / License
 
